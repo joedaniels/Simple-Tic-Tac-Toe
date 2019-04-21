@@ -1,0 +1,1 @@
+Just a simple Tic Tac Toe game, built to start learning React with.
